@@ -1,0 +1,4 @@
+osource "/Users/theomigod/others/light_switch/boards/shields/*/Kconfig.shield"
+osource "/Users/theomigod/light/boards/shields/*/Kconfig.shield"
+osource "/Users/theomigod/light_switch/boards/shields/*/Kconfig.shield"
+osource "/opt/nordic/ncs/v2.9.0/nrf/boards/shields/*/Kconfig.shield"

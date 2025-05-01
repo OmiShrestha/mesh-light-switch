@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/CMakeFiles/light_switch"
+		},
+		{
+			"file" : "/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/CMakeFiles/light_switch.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/CMakeFiles/light_switch-complete.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/light_switch-prefix/src/light_switch-stamp/light_switch-build.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/light_switch-prefix/src/light_switch-stamp/light_switch-configure.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/light_switch-prefix/src/light_switch-stamp/light_switch-download.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/light_switch-prefix/src/light_switch-stamp/light_switch-install.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/light_switch-prefix/src/light_switch-stamp/light_switch-mkdir.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/light_switch-prefix/src/light_switch-stamp/light_switch-patch.rule"
+		},
+		{
+			"file" : "/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/light_switch-prefix/src/light_switch-stamp/light_switch-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"light_switch"
+		],
+		"name" : "light_switch"
+	}
+}

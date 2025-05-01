@@ -1,0 +1,13 @@
+# Target labels
+ light_switch
+# Source files and their labels
+/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/CMakeFiles/light_switch
+/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/CMakeFiles/light_switch.rule
+/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/CMakeFiles/light_switch-complete.rule
+/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/light_switch-prefix/src/light_switch-stamp/light_switch-build.rule
+/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/light_switch-prefix/src/light_switch-stamp/light_switch-configure.rule
+/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/light_switch-prefix/src/light_switch-stamp/light_switch-download.rule
+/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/light_switch-prefix/src/light_switch-stamp/light_switch-install.rule
+/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/light_switch-prefix/src/light_switch-stamp/light_switch-mkdir.rule
+/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/light_switch-prefix/src/light_switch-stamp/light_switch-patch.rule
+/Users/theomigod/others/light_switch/build/_sysbuild/sysbuild/images/light_switch-prefix/src/light_switch-stamp/light_switch-update.rule

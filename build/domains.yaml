@@ -1,0 +1,7 @@
+default: light_switch
+build_dir: /Users/theomigod/others/light_switch/build
+domains:
+  - name: light_switch
+    build_dir: /Users/theomigod/others/light_switch/build/light_switch
+flash_order:
+  - light_switch
