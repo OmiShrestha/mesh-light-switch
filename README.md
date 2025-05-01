@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates how to use Bluetooth Mesh to control light sources in a network. It uses the Generic OnOff Client model to send commands to other devices in the same mesh network. The light switch acts as a client, while the light sources act as servers.
 
-You can pair this project with the Bluetooth Mesh Light sample to see how it works in a real mesh network.
+You can pair this project with the Bluetooth Mesh Light to see how it works in a real mesh network.
 
 ### Key Features:
 - Control light sources using buttons on a development kit.
@@ -16,12 +16,21 @@ You can pair this project with the Bluetooth Mesh Light sample to see how it wor
 
 ### Hardware:
 - At least two development kits:
-  - One for this light switch sample (client).
-  - One or more for the Bluetooth Mesh Light sample (server).
+  - One for this light switch (client).
+  - One or more for the Bluetooth Mesh Light (server).
 
 ### Software:
 - Nordic Semiconductor's nRF Mesh mobile app:
   - Available for Android and iOS.
+
+### Hardware used:
+- nrf52833 development kit
+  - Containes 4 LEDs and 4 buttons
+
+### Software used:
+- Visual Studio Code
+- nrf Connect App
+- nrf Mesh App (iOS)
 
 ---
 
